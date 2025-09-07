@@ -122,7 +122,3 @@ MSCS633 - Assignment 2
 ## GitHub Repository
 
 [Link to GitHub Repository](https://github.com/yourusername/Assignment2)
-
----
-
-*This project fulfills the requirements for MSCS633 Assignment 2 - QR Code Generator at Biox Systems.*
